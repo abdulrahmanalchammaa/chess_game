@@ -1,0 +1,41 @@
+# Chess Game
+
+This is a simple Chess Game built with Flutter using the flutter_chess_board package.
+
+## Description
+
+The Chess Game allows two players to play against each other on a virtual chessboard. The game features a user-friendly interface and supports basic chess game rules such as moving chess pieces, detecting checkmate, and restarting the game.
+
+## Features
+
+- Displays player names: The game displays the names of both players on the screen.
+- Interactive chessboard: The game provides an interactive chessboard where players can make their moves by dragging and dropping the chess pieces.
+- Checkmate detection: The game detects when a checkmate occurs and displays a dialog box with the winner's name.
+- Restart game: Players can restart the game at any time by tapping the "Restart" button in the checkmate dialog box.
+
+## Usage
+
+1. Install Flutter: Make sure you have Flutter installed on your machine. If not, refer to the [Flutter installation guide](https://flutter.dev/docs/get-started/install) for instructions.
+
+2. Clone the repository: Clone this repository to your local machine.
+
+3. Run the app: Open the project in your preferred IDE and run the app on an emulator or physical device.
+
+4. Play the game: The app will launch, and you can start playing the Chess Game. Enter the names of the players, make moves on the chessboard, and enjoy the game!
+
+## Dependencies
+
+The following dependencies are used in this project:
+
+- flutter: ^x.x.x
+- flutter_chess_board: ^x.x.x
+
+You can find the latest version of these dependencies in the `pubspec.yaml` file of the project.
+
+## Contributing
+
+Contributions are welcome! If you find any issues or have suggestions for improvement, please submit them through the issue tracker or submit a pull request.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
